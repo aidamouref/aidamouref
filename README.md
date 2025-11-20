@@ -8,7 +8,7 @@
 - 🏆 My final project (https://bit.ly/flightjudge) was awarded with the jury prize
 - 🗒 https://bit.ly/aidasresume
 - 📫 You can reach me at www.linkedin.com/in/aidamoure
-- 👀 I’m interested in... data analysis! of course! but also in sports, thriller novels and live music
+- 👀 I’m interested in... data analysis! of course! but also in travelling, sports and live music
 
 
 
