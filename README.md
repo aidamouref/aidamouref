@@ -6,7 +6,7 @@
 - 📈 I'm a passionate data analyst with a background in economics
 - 🌱 I have just finished a data analysis bootcamp from Ironhack (but never stop learning!)
 - 🏆 My final project (https://bit.ly/flightjudge) was awarded with the jury prize
-- 🗒 https://bit.ly/aidasresume
+- 🗒 https://bit.ly/aidamf_cv
 - 📫 You can reach me at www.linkedin.com/in/aidamoure
 - 👀 I’m interested in... data analysis! of course! but also in travelling, sports and live music
 
